@@ -1,7 +1,7 @@
 # Step-by-step Item Debugging
 
 
-# Picking a Version
+# Picking a Versionh
 
 As of game versions `1.16.100` and onward, there are three distinct types of items, as constituted by its `format_version`. 
 In short, versions `1.16.0` and prior are currently the stable (This includes **1.16, 1.14, 1.13, 1.12**) **non-experimental** version. These do not require `Holiday Creator Features` to be enabled. 
